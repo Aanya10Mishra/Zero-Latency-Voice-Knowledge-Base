@@ -1,0 +1,34 @@
+# Core dependencies
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+websockets==12.0
+
+# Vector DB & Search
+chromadb==0.4.22
+sentence-transformers==2.3.1
+rank-bm25==0.2.2
+
+# LLM & AI APIs (Groq only - FREE!)
+groq==0.4.2
+httpx==0.26.0
+
+# Document Processing
+pypdf2==3.0.1
+tiktoken==0.5.2
+
+# Reranking (runs locally - FREE!)
+transformers==4.37.2
+torch==2.2.0
+
+# Audio Processing
+pyaudio==0.2.14
+numpy==1.26.3
+scipy==1.12.0
+
+# TTS (pyttsx3 - FREE & offline!)
+pyttsx3==2.90
+
+# Async utilities
+aiohttp==3.9.3
+asyncio-throttle==1.0.2
