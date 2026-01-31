@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+pip-wheel-metadata/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.npm/
+.eslintcache
+*.log
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Static assets (optional build artifacts)
+static/css/*.css.map
+static/js/*.js.map
