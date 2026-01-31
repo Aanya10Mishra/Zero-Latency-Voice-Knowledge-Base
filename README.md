@@ -474,7 +474,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
+## UI of the Application
 
+<img width="1846" height="905" alt="Screenshot 2026-01-31 153829" src="https://github.com/user-attachments/assets/521ff719-10ba-4662-91c7-a264a73bdce3" />
+
+
+##  Features Added
+
+<img width="467" height="583" alt="Screenshot 2026-01-31 153900" src="https://github.com/user-attachments/assets/a5d863cc-4e72-4841-b881-e154db539337" />
 
 ⭐ Star this repo if you find it useful!
 
